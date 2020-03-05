@@ -4,4 +4,8 @@ Just for another test
 
 this is my first to visit 
 
+
 create a new branch by MSI
+
+Git operation is easy
+
